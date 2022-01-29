@@ -1,6 +1,3 @@
-console.log("---------------")
-console.log("Ensure that You Use First Letter Capital Of Every Input")
-console.log("---------------")
 var readlineSync = require("readline-sync");
 
 var UserName = readlineSync.question("What's Your Name? ");
