@@ -14,5 +14,5 @@
  :boom:
 
 ## Given Below Picture Shows The Output Of My CLI App.
-<img src = "https://user-images.githubusercontent.com/72239310/151645498-3fe912e8-a57e-4e4c-841f-2a29c83d2776.png">
+<img src = "https://user-images.githubusercontent.com/72239310/151651650-64d17313-ee90-4c91-8c8b-08177b69ac73.png">
 
